@@ -2,8 +2,9 @@
 import logo from './logo.svg';
 import './App.css';
 
-import Expenses from './components/Expenses';
+import Expenses from './components/Expenses/Expenses';
 
+// const App = () => {} Alternative Arrow function syntax
 function App() {
 
   const expenses = [
